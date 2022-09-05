@@ -41,9 +41,6 @@ function makeSound(key){
           var a7 = new Audio("kick-bass.mp3");
           a7.play();
           break;
-        default:
-          var a6 = new Audio("crash.mp3");
-          a6.play();
       }
     }
     
